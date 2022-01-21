@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zeyvo92 - Freelance Backend developer
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+<!--- - 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me ... on linkedin: https://www.linkedin.com/in/mohamed-bouzidi-tek/
 
 <!---
